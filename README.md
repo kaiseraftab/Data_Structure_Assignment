@@ -1,7 +1,6 @@
 # Data Structure Assignment - Book Sort & Search App
 
-This JavaFX-based application allows users to import a JSON file of books and perform sorting and searching operations using different data structures and algorithms. It's developed for the "IN-OIAD" module at NHL Stenden and demonstrates applied knowledge of data structures and algorithms.
-
+This JavaFX-based application allows users to import a JSON file of books and perform sorting and searching operations using different data structures and algorithms.
 ---
 
 ## Features
