@@ -68,7 +68,16 @@ This JavaFX-based application allows users to import a JSON file of books and pe
 
   
 ]
-![App Screenshot](images/Output1.png)
+## 📸 Sample UI Screenshots
+
+### 🖼️ Output 1 – Sorting Results
+![Sorting Screenshot](Images/Output1.png)
+
+### 🖼️ Output 2 – Binary Search Result
+![Binary Search Screenshot](Images/Output2.png)
+
+### 🖼️ Output 3 – Linear Search Result
+![Linear Search Screenshot](Images/Output3.png)
 
 
 
