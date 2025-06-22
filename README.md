@@ -24,15 +24,15 @@ This JavaFX-based application allows users to import a JSON file of books and pe
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
-### ✅ Prerequisites
+### Prerequisites
 
 - Java 17+
 - JavaFX SDK (e.g., version 21+)
 - Gson JAR (place in `lib/`)
 
-### 🛠 IntelliJ Setup Instructions
+### IntelliJ Setup Instructions
 
 1. **Open Project** in IntelliJ
 2. Add the Gson JAR:
