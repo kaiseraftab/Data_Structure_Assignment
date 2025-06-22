@@ -24,7 +24,7 @@ This JavaFX-based application allows users to import a JSON file of books and pe
 
 ---
 
-## ▶How to Run
+## How to Run
 
 ### Prerequisites
 
@@ -32,7 +32,7 @@ This JavaFX-based application allows users to import a JSON file of books and pe
 - JavaFX SDK (e.g., version 21+)
 - Gson JAR (place in `lib/`)
 
-### 🛠 IntelliJ Setup Instructions
+### IntelliJ Setup Instructions
 
 1. **Open Project** in IntelliJ
 2. Add the Gson JAR:
@@ -67,23 +67,3 @@ This JavaFX-based application allows users to import a JSON file of books and pe
   }
 ]
 
-### Usage Instructions
-Launch the application
-
-Click Import JSON and load books.json
-
-Select:
-
-Data Structure: LinkedList / HashSet / Dictionary
-
-Algorithm: Sort or Search
-
-Key: TITLE / AUTHOR / YEAR / GENRE / PUBLISHER
-
-Optionally check “Use first half only”
-
-Enter a value for search if using search algorithm
-
-Click Run
-
-View results and execution time
