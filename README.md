@@ -20,3 +20,70 @@ This JavaFX-based application allows users to import a JSON file of books and pe
 - View execution time for each operation (in nanoseconds)
 - Optionally work on the first half of the dataset
 - GUI built using JavaFX
+
+
+---
+
+## ▶How to Run
+
+### Prerequisites
+
+- Java 17+
+- JavaFX SDK (e.g., version 21+)
+- Gson JAR (place in `lib/`)
+
+### 🛠 IntelliJ Setup Instructions
+
+1. **Open Project** in IntelliJ
+2. Add the Gson JAR:
+   - `Project Structure → Libraries → + → Java → select gson-2.8.x.jar`
+3. Add JavaFX VM options:
+   - Go to `Run → Edit Configurations`
+   - Under VM options, paste:
+     ```
+     --module-path "lib/javafx-sdk-21/lib" --add-modules javafx.controls,javafx.fxml
+     ```
+4. Run `MainApp.java` as a JavaFX Application
+
+---
+
+## Sample JSON Format
+
+```json
+[
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Year": 1960,
+    "Genre": "Fiction",
+    "Publisher": "J.B. Lippincott & Co."
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Year": 1949,
+    "Genre": "Dystopian",
+    "Publisher": "Secker & Warburg"
+  }
+]
+
+### Usage Instructions
+Launch the application
+
+Click Import JSON and load books.json
+
+Select:
+
+Data Structure: LinkedList / HashSet / Dictionary
+
+Algorithm: Sort or Search
+
+Key: TITLE / AUTHOR / YEAR / GENRE / PUBLISHER
+
+Optionally check “Use first half only”
+
+Enter a value for search if using search algorithm
+
+Click Run
+
+View results and execution time
