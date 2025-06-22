@@ -1,0 +1,72 @@
+[
+    {
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Year": 1949,
+        "Genre": "Dystopian",
+        "Publisher": "Secker & Warburg"
+    },
+    {
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Year": 1960,
+        "Genre": "Southern Gothic",
+        "Publisher": "J.B. Lippincott & Co."
+    },
+    {
+        "Title": "Brave New World",
+        "Author": "Aldous Huxley",
+        "Year": 1932,
+        "Genre": "Science Fiction",
+        "Publisher": "Chatto & Windus"
+    },
+    {
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1925,
+        "Genre": "Tragedy",
+        "Publisher": "Charles Scribner's Sons"
+    },
+    {
+        "Title": "Moby-Dick",
+        "Author": "Herman Melville",
+        "Year": 1851,
+        "Genre": "Adventure",
+        "Publisher": "Richard Bentley"
+    },
+    {
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "Year": 1813,
+        "Genre": "Romance",
+        "Publisher": "T. Egerton"
+    },
+    {
+        "Title": "The Hobbit",
+        "Author": "J.R.R. Tolkien",
+        "Year": 1937,
+        "Genre": "Fantasy",
+        "Publisher": "George Allen & Unwin"
+    },
+    {
+        "Title": "Fahrenheit 451",
+        "Author": "Ray Bradbury",
+        "Year": 1953,
+        "Genre": "Dystopian",
+        "Publisher": "Ballantine Books"
+    },
+    {
+        "Title": "The Catcher in the Rye",
+        "Author": "J.D. Salinger",
+        "Year": 1951,
+        "Genre": "Coming-of-Age",
+        "Publisher": "Little, Brown and Company"
+    },
+    {
+        "Title": "Jane Eyre",
+        "Author": "Charlotte Bront\u00eb",
+        "Year": 1847,
+        "Genre": "Gothic",
+        "Publisher": "Smith, Elder & Co."
+    }
+]
