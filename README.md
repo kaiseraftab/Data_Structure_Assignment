@@ -68,16 +68,35 @@ This JavaFX-based application allows users to import a JSON file of books and pe
 
   
 ]
-## 📸 Sample UI Screenshots
 
-### 🖼️ Output 1 – Sorting Results
-![Sorting Screenshot](Images/Output1.png)
+---
 
-### 🖼️ Output 2 – Binary Search Result
-![Binary Search Screenshot](Images/Output2.png)
+## 🖼️ Screenshots
 
-### 🖼️ Output 3 – Linear Search Result
-![Linear Search Screenshot](Images/Output3.png)
+### 📊 Bubble Sort Output
+![Bubble Sort](Images/Outpu1.png)
+
+### 🔍 Binary Search Output
+![Binary Search](Images/Output2.png)
+
+### 🔍 Linear Search Output
+![Linear Search](Images/Output3.png)
+
+---
+
+## 📄 Sample JSON Format
+
+```json
+[
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Year": 1949,
+    "Genre": "Dystopian",
+    "Publisher": "Secker & Warburg"
+  }
+]
+
 
 
 
