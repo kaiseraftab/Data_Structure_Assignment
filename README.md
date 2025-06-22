@@ -45,57 +45,7 @@ This JavaFX-based application allows users to import a JSON file of books and pe
      ```
 4. Run `MainApp.java` as a JavaFX Application
 
----
 
-## Sample JSON Format
-
-```json
-[
-  {
-    "Title": "To Kill a Mockingbird",
-    "Author": "Harper Lee",
-    "Year": 1960,
-    "Genre": "Fiction",
-    "Publisher": "J.B. Lippincott & Co."
-  },
-  {
-    "Title": "1984",
-    "Author": "George Orwell",
-    "Year": 1949,
-    "Genre": "Dystopian",
-    "Publisher": "Secker & Warburg"
-  }
-
-  
-]
-
----
-
-## 🖼️ Screenshots
-
-### 📊 Bubble Sort Output
-![Bubble Sort](Images/Outpu1.png)
-
-### 🔍 Binary Search Output
-![Binary Search](Images/Output2.png)
-
-### 🔍 Linear Search Output
-![Linear Search](Images/Output3.png)
-
----
-
-## 📄 Sample JSON Format
-
-```json
-[
-  {
-    "Title": "1984",
-    "Author": "George Orwell",
-    "Year": 1949,
-    "Genre": "Dystopian",
-    "Publisher": "Secker & Warburg"
-  }
-]
 
 
 
