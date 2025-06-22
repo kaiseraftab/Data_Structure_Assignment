@@ -65,5 +65,11 @@ This JavaFX-based application allows users to import a JSON file of books and pe
     "Genre": "Dystopian",
     "Publisher": "Secker & Warburg"
   }
+
+  
 ]
+![App Screenshot](images/Output1.png)
+
+
+
 
