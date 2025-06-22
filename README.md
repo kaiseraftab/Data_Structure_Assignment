@@ -27,9 +27,9 @@ This JavaFX-based application allows users to import a JSON file of books and pe
 ## How to Run the App
 
 Prerequisites
--Java 17 or above
--JavaFX SDK (e.g. javafx-sdk-21)
--IntelliJ IDEA or any IDE that supports JavaFX
+Java 17 or above
+JavaFX SDK (e.g. javafx-sdk-21)
+IntelliJ IDEA or any IDE that supports JavaFX
 
 JavaFX VM Options
 To run the JavaFX app correctly:
